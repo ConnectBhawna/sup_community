@@ -14,7 +14,7 @@ export function SiteFooter() {
                 <SuperplaneMark />
               </div>
               <span className="text-[1.9rem] font-semibold tracking-[-0.05em] text-white">
-                Academy
+                Community
               </span>
             </div>
             <p className="mt-5 max-w-lg text-lg leading-8 text-white/68">
@@ -77,11 +77,11 @@ export function SiteFooter() {
         <div className="flex flex-col gap-5 border-t border-white/8 pt-7 text-[0.98rem] text-white/48 lg:flex-row lg:items-end lg:justify-between">
           <div>
             <p>
-              © 2026 Superplane Academy. Built for learning AI-first platform
+              © 2026 Superplane Community. Built for learning AI-first platform
               engineering.
             </p>
             <p className="mt-2">
-              Superplane Academy is for educational purposes and workflow
+              Superplane Community is for educational purposes and workflow
               experimentation.
             </p>
           </div>

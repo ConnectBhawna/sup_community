@@ -62,9 +62,11 @@ export default function Home() {
                 Start Learning
               </Link>
               <Link
-                href="/workflows"
+                href="https://youtu.be/7GFIB76Oy3Y"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-flex h-15 items-center justify-center rounded-2xl border border-black/10 bg-white/42 px-8 text-base font-semibold text-[var(--foreground)] transition hover:bg-white/72"
-              >
+   >
                 Watch Overview
               </Link>
             </div>
